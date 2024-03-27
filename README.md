@@ -4,7 +4,7 @@ This repo containslogos, fonts, colors, color palette for the Eclipse brand.
 
 | Symbol | Wordmark |
 |-------------|-----------|
-|![Squarelogo](logo/symbol/square_logo.svg)|![Wordmarkblack](logo/wordmarl/wordmark_black.svg)|  
+|![Squarelogo](logo/symbol/square_logo.svg)|![Wordmarkblack](logo/wordmark/wordmark_black.svg)|  
 |![Circlelogo](logo/symbol/circle_logo.svg)||
 
 ### Colors  
